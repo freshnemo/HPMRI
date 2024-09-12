@@ -6,7 +6,7 @@ Official Github Repository of the paper:
 
 Hsieh, K.L.; Chen, Q.; Salzillo, T.C.; Zhang, J.; Jiang, X.; Bhattacharya, P.K.; Shams, S. Hyperpolarized Magnetic Resonance Imaging, Nuclear Magnetic Resonance Metabolomics, and Artificial Intelligence to Interrogate the Metabolic Evolution of Glioblastoma. Metabolites 2024, 14, 448. https://doi.org/10.3390/metabo14080448
 
-![Overview of the Study](images/figure1.png)
+![Overview of the Study](images/Overview%20of%20the%20Study.jpg)
 
 ## Packages
 
@@ -16,7 +16,7 @@ Check with the `requirements.txt`.
 
 Please download the dataset from https://zenodo.org/records/13148055
 
-![Data Structure](images/figure2.png)
+![Data Structure](images/Model%20Structure.jpg)
 
 For each task, find the label from the label file.
 
